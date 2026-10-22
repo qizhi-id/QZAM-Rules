@@ -19,6 +19,7 @@ import ipaddress
 import json
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -152,7 +153,19 @@ def build(source_b64: bytes, approved_hashes: set[str], *, minimum_proxy: int = 
 
 def save_yaml(path: Path, content: dict):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(yaml.safe_dump(content, allow_unicode=True, sort_keys=False), encoding='utf-8')
+    payload = yaml.safe_dump(content, allow_unicode=True, sort_keys=False)
+    source_notice = '# Derived from GFWList: https://github.com/gfwlist/gfwlist\n'
+    license_notice = '# License: GNU LGPL 2.1; see COPYING.txt in this repository.\n'
+    if path.is_file():
+        previous = path.read_text('utf-8')
+        if (previous.startswith(source_notice) and license_notice in previous
+                and re.search(r'^# Modified by QZAM on \d{4}-\d{2}-\d{2}:', previous, re.M)
+                and previous.endswith(payload)):
+            return  # Keep the actual modification date when content is unchanged.
+    modified = datetime.now(timezone.utc).date().isoformat()
+    notice = (source_notice + f'# Modified by QZAM on {modified}: domain-only normalization, '
+              'reviewed exclusions and YAML formatting.\n' + license_notice)
+    path.write_text(notice + payload, encoding='utf-8', newline='\n')
 
 
 def main(argv=None) -> int:
