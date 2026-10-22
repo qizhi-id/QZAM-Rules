@@ -25,3 +25,21 @@ or replaced with exact domain-equivalent handling.
 Network access to `raw.githubusercontent.com` may require a working proxy;
 configure Mihomo's provider fetch via `QZ-FIXED` and verify cold-start cache.
 Do not treat GitHub schedules or iOS client refresh intervals as real-time guarantees.
+
+## Review, reproduction and attribution
+
+Initial source provenance, coverage gaps, per-rule review and license are documented in
+[the first publication review](docs/INITIAL_REVIEW.md). Generated rule data derives from
+[GFWList](https://github.com/gfwlist/gfwlist), under [LGPL 2.1](COPYING.txt).
+
+```sh
+python -m pip install -r requirements.txt
+python -m unittest discover -s tests -v
+python scripts/gfwlist_convert.py --fetch \
+  --approved-file policy/approved_unsupported.json --output-dir .
+```
+
+Additional unsupported expressions stop publication with exit 3. Review
+`report/conversion.json` and record explicit decisions before updating approvals.
+Do not copy all hashes from a new report without reading the original rules.
+PR CI is read-only; the default-branch scheduled/manual job alone publishes updates.

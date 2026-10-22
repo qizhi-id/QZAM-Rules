@@ -1,0 +1,1778 @@
+{
+  "source_kind": "gfwlist-autoproxy-base64",
+  "source_sha256_decoded": "2009e12bbf4f8a4ae67ff0438c7e00f99a6219ff19c7e3d7107a6f8da1d02362",
+  "effective_entries": 4413,
+  "direct_domains": 31,
+  "proxy_domains": 4090,
+  "unsupported_count": 292,
+  "unsupported_sha256": [
+    "00615e4abdcea22bf62340e2d5e2f4849fc12adf63edf1e6d05a0a836175e765",
+    "00f7e1af2cc6a95179b4c205a937b83d93888e9c614ac1046e1359123ee178bf",
+    "0159be0bdb1b90a2eb30ae373a036932887ed3ae8036af2619eb9bc66b7d172a",
+    "019a30664256370533e72d14fd1c59a505fa6fb0c33aa8741c85919f70edf778",
+    "0400b8a19b64163785789e8db7b734f7bb8312d3f817dcc9190f44bd8f7625c6",
+    "055c0bd13867c61817fe6022278085e58a4c6d9f49eec7d63002f06bc1990b4c",
+    "057f2e25d3bcced670b6f1890a5868a43eab0f154434a0057d0f2f2f9deec174",
+    "0600515eedf85e909425a680b9358db57bb61515a75c2cf7d4a748fb8a62a17d",
+    "06a44213c9814e3d500e45bcf36ae3b294a976da42ab0abe69a62b169dd2c047",
+    "077426bb8cbe79f202444faadf04da9c4043c2460c0c245cf9d81eaf5d3a8258",
+    "0909b8b36f3ac120d1ddac837622986938bdaf8481615369ad2d420ed37bee15",
+    "099676fe60b5f25e525eb152e5c96440451237389ebba9c427a71c58a8348550",
+    "09e05295c8e1c59fefd984f1a0d25dfc2133a6c727617c32880cc006da0aad51",
+    "0b078efd95c813d3492ea23ebddc75323a103360ce3bb4d084872370cfd03a65",
+    "0b090e68bfda6e90bfe028570d0289d9bb8185c4b1436ffc4bed04eb475ffcbd",
+    "0b3a9c12bea9045fdf8ab8683a39987c8714b2288fd241f8998f378edc28a962",
+    "0b911fcc432f72dbe071fd12a68f09a5e71cd8597bb6c53bb9084352fbc3dbc0",
+    "0b954e608cafae9dcb8056d7202c055a63701bbeb7347ca325de46abeb4702a0",
+    "0c7e7ba23ab86f784896eb30da272208aa18dfd83111696f1de28cfb102ee765",
+    "0ced25ccc23fd8f60ba39accbf41724ed3885939829e162eb086d18641cddb09",
+    "0e251a4536c90cb8f5146cc3cf42e8ae38a79ec0297ce9a5540a4c1b2c494eb0",
+    "0e3bd45ae2b160f4c5cc38fc5929bf4d76758db20a037cd6c6aad2722e75388f",
+    "0e55530fd1d63fc067e097154e7ec970e1e978faaf4ef6e4e66b503c1b1de443",
+    "0e7bba452abaa2d047f98dd1cec8cf1b1b52c8c7dc5ca65750aade50b43b9045",
+    "0f33858ac8bedd2fa0409e871efe5c6451376fb16f7b554de2f9d623136abacf",
+    "0fb128c9fd9fdcc8d3e01a35452e5cd6ecde2ec9f921543b8c965bcaff4827fd",
+    "10dedcab138325a5bc772882242dccdbf1205b0836a6bef0edb79010e38080bb",
+    "11df648600571f72c4463f92917d7dbf4690dfc1830f59e387b0ec1f8aab7148",
+    "123f1b4dcb403fb0c23368d2d3334f7d315c2510012b9da9cbbf76b1f5513d30",
+    "1250168b56a10f2f2ca5af0a0b6eaa68b1d07cc141fb0ca17cec9bed53d6b234",
+    "13ee113655ebe8ecddbcec4b1136bfd48af91c8f6d268af3d15d3d5c6fed40a5",
+    "1414cd278c311af320d3c4c921a1ba66804edfe539d9de05a84d6cc7a514ff3c",
+    "1592b0942102a472195b26ce6649eed3f7f1ad4480e3aacf900a747bf0c3a7b4",
+    "172c61c968c94bcdbc24d70914361ab9bd1b184cf8ed7db8becad863323180d1",
+    "1755e51f1606ff751f4273ce357dd0a9063e830004dea04fb1a4b8847bcb6f30",
+    "18eac6b45d37bb4652d0a462b381400f99704c17ac936bc3c40147bfac737587",
+    "18f37cf858f6344dc165a64a7c43bfcea7147275e4d26517342dbe14b96ebaeb",
+    "1c869bdfdbad3325c24f1498eb4feee183d78ccde4274ca60d61dcc390fe9021",
+    "1ca297781596198529caf6563092290655d31134a6f3f869ca0b417105ce6550",
+    "1cd36f65ea6a141affdc8d889348d40dc108b236dc8085d510b42d696d421fa5",
+    "1e368aa9938e190d57d68c3b31cd3092616b21d4e31689c620c3478379257283",
+    "1e6e045e1f99723e9a6d4b634ad6190116468694df231f7698e2866dfce300ea",
+    "1ee72a1d62667862903b0c8eb9f6b1716035d9af5b82e7b12bc7014dc036ddfd",
+    "1f305188c06330e90e1173d62464aad4fd4cd5c04d43449fc1f6a2bb0c2c3955",
+    "210b39174ba699128fd1956cde6c54e0f834a57de1d1bf680d5eaa83e74560d9",
+    "21ae01fc2fadc1cfe2dacc4fd17f62cf2cb188edc7d670335793ffa3e6a0d476",
+    "2279da0dfa78a1aff3ae8ce8a9af9cf0956f789aa7adde5e66935f7a4763721d",
+    "23605ef9e11ee4fc914b6f1b964dcdabcbc5fdce8769ce79ee8566aa95b079ee",
+    "23ac4bac76a4cc0372218cc824846285b28bcadde0b0ed36cb2499873f017162",
+    "25608fdb35ce03c94aa866a4e0ad9427cba4aab8de0743eeee771bca2ae9d4f0",
+    "25cb7e730aae8415fb91c801a5af3db21a16f8e52822648d877eb7fa47b77ce7",
+    "25cdf21ad1d6c1c17aad8bc4ef505596a0700abacb47a0fb2241f42d8ea8cc8f",
+    "2965a33e0c0d8c4e3892cf1b884dbf33ae5b5dd9257197d2e1302379f4997539",
+    "29d49eefa9009ef42495a152d94507f9acae69e550ac1e7222acf5266bb41fcc",
+    "2b806c60c898c949b1fb2a3b7b1e9d59a0e8ced60096af7fcc02b4515e7f4245",
+    "2bd8f7aa3fb598006e9a7ccb7bb41eec395f55043219e58e627bb1c204c79cf8",
+    "2bef8133cbcd3038a6217bc3d4f550066e1cc1e19f18f20fed089d9708f17ddf",
+    "2e3ee1c7e8e2a30af151928d4a002c662d5ccf004a2321694f1d2096bdd55750",
+    "2e46b3bdfe59bc4e93c812c17978dba7623a60606012277b75bcce1e5ea04965",
+    "2ec62ebc53f6c535f77736a0f55ee19ca8407229a388782e92635a3731a0cb6b",
+    "2fe4db500ad2c87cd1f12d9e6fe52ef71145aa4fb57231c7ea2636982d52c345",
+    "32cd8a7b774308e6b35bc89032ecc245137f95e39bd3f72aa9ddcd23f2ff5d37",
+    "32e3aec03d0387a421a3e69b3d94e6f2b46508a8e85923066075f68fa2ec7119",
+    "331fa7a55831751d7256f766875876dc3104ea00a218d7a9509c13249871e794",
+    "342778dbfeef9e2b303948df8255b219ab01a70a4adc0c5daa59d9a6287ad565",
+    "359981b531c6fc91ac5d018c9e1d13fed32365c1e474b73003cbae110402a2a7",
+    "35f634d944468378b0790fed5098af9303b8bcf6f5c5f2123f8a893dbc8c0099",
+    "38c505f8b824012581cab2bc236799c28ab70d3b8d9dfc51648e1d9f84d351c6",
+    "3940abcbc4e1c235800c64ae403d3741155180b11aae59f78c49fa2ac93bff5e",
+    "396538af1289b492d4429ec4c634f503391d025d3eb51d4ef34d944e661a497e",
+    "39f31ec3c89af6c1f927bbbc0c5afed8e6fbd7dcbaa8c56a42bab13b6adf3422",
+    "39fd176617e9869e4b0dcbcbf3e8d16f17fc4af68acf53761cc142a4beeb2806",
+    "3a202a9e46a02b1e3ef88fa39c0dee4de6d64f155cc2077a1f2da6db56b1c705",
+    "3a3cb069e66f8fdf79c519977b98ff028a73735f95c31dce26b2a7f7f65f54cb",
+    "3aaa019bb522dded161169bbff7dd3054efb381d7ee0b9352ca5dc9f944bb3f2",
+    "3b13ddd41adc63c177afee354a93f6515210e3c285c4a99cebc644bd8fac6156",
+    "3b5dc253a126ad51ac7bc8dc86d3b8ef4cf4de8994cb89ceb34dda3e35ed351d",
+    "3bff9531d1e2002eb3afbaa4bcd0075dcd418f6830ffd596b04961cd6e2e2688",
+    "3c4b5dad367a31cd308c72c165215ffd3eb506d5e0c6b531fcc92933d92e500f",
+    "3cc872cda535e575d1d39d19894ad1998350d5c3d05f3c8602c7711a3fa6e60a",
+    "3d18006c1fbdfacf66fbcb1ea0889117afd8de721a0dd0534057326091c1fb58",
+    "3dd4356306e32c8887982ed74c0effddeea7ca95bd50c4bafbfeae69259958b7",
+    "3edf5fe5f6a8b6b933be7b35aa0cd43920338e72c8c276bcc66b861bcac365e2",
+    "3f4a9c4ee2578896d21470ff2bd9ed5dd10f5c6173a5a091fc8dcf6a4cde7455",
+    "3fe3bbda72d0b769276480df6d171d69829fe99f47390b5cda7a096f13b925c2",
+    "405767f9884bd36a8e8f9f8ec44e78457900673d1e850672905da9657a37fe04",
+    "4208b759e63cfd7dd4c99ae2fcc04208c41d07db883066ee5e58f9e85c5a62b2",
+    "42e1d2aef98f568aa5cc136d12b962a285cf26e96a50bcb00d068d142cc42f1b",
+    "46744447c1117279995ae70a4a49cbdf1bacd9cefe2ecda0aca0d4ffe788e3dd",
+    "46ea703e141497ba91686190b0bd9139f1c8c0ac2fa5423e7005bddfc0b51861",
+    "47412e4560de9409de3dd51d85be550f3fd957e12acd2950cc40c23c4e0603ce",
+    "479b934340314488a663ea6c15b56c0c0d07c4cc81586d8917c489a7375c17b9",
+    "4924008e524cb124d02dd2990728702cf6ac37bb9b38387991ebef5db7bc256b",
+    "4ab20909cec29f1773ec1071c9900d26aa16705f058c704afcb0ec183e1344bc",
+    "4ae4731c10bf8e0af1d7683322dfc0787156faa9567846e5a7a1c6b61dacbd75",
+    "4b962aa5efbdf8c5b85b6c0339d6ac4bf0e855b6865f7ac2e802440daa4b7fa7",
+    "4cc46cf05dec4881565bb0c2cf716e265204d13457d5cfcc029ed7538a20d4d2",
+    "4efbe693165735abade7e3bd04e2b8a2d418b7159efdc1a2295626af91bd0812",
+    "5185668a91ba2c698af92be968aa2f479fe9ff7a928a8a8dbc0cbbd36a29b01c",
+    "51d94c64c0d9db33dff77b5b0d84323342e5048f6d582551c501dda5739446b9",
+    "52016fc2ffc93a821f8985d4675bf9b92f9d9cf3ab0a063d044f54a69cd83b7d",
+    "5315b39dd225f5bac68fb6f45c653a11e69edce44770e1b0469c65b9eb80e484",
+    "53a7b6594d75c217bf4309b052a3dd405d698985d4ae0d2669c3177aa46dab82",
+    "544e1ee3c2afc80f7e97c384c96bdd53aca433e8fac418576456a47d63fbed06",
+    "5485cb2a9bfe507ca4699adf850971aad963c5fa32e08c6d3033df5230c1961a",
+    "548ef2b8b8ab9ef21d45af627dce6eb0588f9574cf5677ff70b766eda4124616",
+    "55fb2671dd45ae2767b9e28a66d2db034cbd153218801cbff73cf4ca78e9a277",
+    "5655dfc65e59f0f6c26d7d5ae56ccecfc1404e058b3238e4433d36b9c174c31c",
+    "569259666b62f78708c18aa3fa25102edf85321a972a1c4cfcf483e76d34bff1",
+    "58fc8a3b699b58f7c278046c01c6ae011de7a095534c12133f6cf072d86a1f1c",
+    "5bfe432a32ab389b654e60f99c6892657892b604d557c13736f84d7e25dab541",
+    "5c861baf45391d2a5de38e520d41896a3475d62a6f347c57197b14467287fea7",
+    "5cfc8f0c9e0234aa5087779a35a8401b32fdfe8585342e859997f1af3e24ca6f",
+    "5da3dbc8c9c9b3697581f9afa17dbc94ec1d047a88bd67710738bb71a787e7ab",
+    "5e2a2300eafefc1bb884c3ed2d1d6b51c28470cc48739d11890ed4e29bcb3567",
+    "5e437864f099972119d44191c5e9bf4be77776a9436292b7a33cdc3c62578efa",
+    "5f095071f4406fa05966a38cb1e1630d412cf9c9bd9ecca8cc410cfe5e34650f",
+    "61dac7bdf66d7fee0039579bc0a2149939efe4cfb0f73f6ec8be005d8e6b7e9c",
+    "61e35310c15251add35045c0f8a7cf2e28d19e3215892d175f30b2f921139926",
+    "62c7b5b88e77653a7d56b858f15176d132fbc7daf1fa85410fbc1f7e7fc779bf",
+    "62cafa4112205da88bd30963097493dead20291bc9adad918c2251493c09395f",
+    "62f19e4e2ffa5bcfd0a85fe8f38b3ac52650fb2cd6e1ae3550dbcdde822f195d",
+    "644d4d5051acf859fd233a37c670072544bfcc8fbfc3269b12d7b0360b9ce3bb",
+    "66d302a2a6e77881f5d250390e92c14f429f8a1bb281ed76baef05865fbbd179",
+    "675dff15a553465e706810da991c2248221205ee8b428987bd17b252b68f9d07",
+    "6844e11d045ddb8ccab512a7b5ef8db9df30ba9dc749451d61e8d0edef94362a",
+    "6955bdccaa43ff01784fa8d6ba60b7ff3ab44098a2d45bf010106ee4126dee28",
+    "6a0023da311c947759e5c2b002993d211040151444dcb985160b4102f3e444bd",
+    "6a56814a74518b089cc14d9394340e29e0c6704fdbbc846dea6efed6273ef546",
+    "6c6b936083d58d77e5baf3a0a384f15344961bdf1b8be3559ee48df37c83adc6",
+    "6cdbd49fbc1ece6c31c25c399ac868de73c079725b4471de1a0c01ada951af49",
+    "6ea07e458043d85351c5f568f7da469491c922e94cbbbcd9f51d3b40a7ab7971",
+    "6ec5b82f1294e5c2cbc8931c8e49ee085ccc927102db37b6de6116e16786f620",
+    "6f38fdb1910cdf6f8766f0d7a626a3126fefaf09e5aeeee8f2d7b39fe0d6dbd8",
+    "70f53c576a5bc8a7a3175f2dd72e39d754f87216d64931ab7185fdd9a17453c7",
+    "712b999b7e3133ddea86b850ac9a4264d94525d3e1889fbcd9956821c504c217",
+    "749eba8bee4021985016fb053ac1cdf4b7979578099ecbbdb9b0f5445c806367",
+    "75ddc023df243b55459309cd3a66fe898b6b9330b160e06aec5f0fbb1fdc8d5b",
+    "78203055e0678210cf70e3989e1215fe06b5ced3a33707880201314a7bb6ce53",
+    "78330bb4d41142de23bffdc3d198d886e24b71369f3a3cece1511045b99d186d",
+    "7994074d64f5c8c7bf6f64e5da96f4992bd1eb81b238713d8538454a598ccee8",
+    "7a0695c5a563763eedafb7ef30ac2bdfaf98cb6e0592a5192a0ffb01dadc829b",
+    "7c7eee63395110e28548e165f8aaef2c856ab541bec19f8d3f4c6149363f9d26",
+    "7c9861d94153efeebbf9d79fb969995da28a6f5b5585ae7edcad9c3da89ea5ab",
+    "7cf454b69eb65878622b768a3236aee5c6d718be23390fd831447db7d00caa2c",
+    "7e710c7c87d2764bd601a5618e55ba7aed4ecd1d9b489b0c468f6462cfb376f5",
+    "7fffcf749e33ba242515916f8631143b8445208b4f61da176a35c002ddea8be5",
+    "803b3246fdbb5d1eb8e38bbf0a439aa5e2b0f07e0547ffcdd9f98824be54700f",
+    "84f3d426e2009f73fb1d0c7982523b9e5f7b5f15eda4b2a38e70f8d805b911e8",
+    "860abac6694cac6daaa453944985871e7ba538c7b2b31ed154ec1697faf1fbfd",
+    "8879661ed91168c424cfeafbd99421d09655b573a179418514c4d930abd3fcbe",
+    "89f198dcfe06d43fd5ea2b566c149bebbb8fcf9562396b38d67c66f24ac55853",
+    "89f96dc49caac976e72f592f10582d19a6649461073ddd78c0d974e301c76765",
+    "8c09afaa8db626dea396788b40f455a3a5adbd438fc06a4bfb3134da1286c6a3",
+    "8d43f40faeba678308a949623c92a932fee682b2c28f04f374c9f4e5c34ff0f3",
+    "8f31d449275f1c52e5b64caaec6482670e212716e193251d538afc44de36d6c9",
+    "909dfddbb52b447e4c3e184cb7b7acd7f2b1ae68ddc0a1ba33344018c53820cc",
+    "92a4a1819505b265322ee695c0f2fdcb8f576bd0898084b61f2102e0f6767ffc",
+    "930ba33117efcee2e371abb0dc9f66dbe154f6cb2bf1ab0ca375baf64ef29cd8",
+    "93848b14ac1608e266a0564839d82b3f76d86e3abc052ef434fb4ba776b19614",
+    "939b3e25ed9581a38ca50a7918def0e68f73cffe3c7cca2ac8307756bb7b301a",
+    "95bccb1b6da8cab56cecd04d5633780d78561bbc72c41813c3d1444fdf64cf77",
+    "960c69bd60ac44a7914decdc75742d4be7d178bded254c37d4c8b9dfacc3b3a4",
+    "97bb830d28715ca20428c05411fb6431165ded3f54e6f14f73ab774258daac16",
+    "98c6684e154159303c81eed0fe5443ca086c3160bd94e520b36d9b5864874323",
+    "98d8e8cbef032f5d8d6dd0141c59981e8b2e01e980c8cf6a9f5452f7df021490",
+    "9986aa2774f5cf306fcf02189b18c39bba59c466e7115f532294f0831c618091",
+    "9a64f39cf638cd2413036d502b7057e1058b5002d479a78a2d0e1ceee1404eca",
+    "9b24b5da414e5e78c2ae249874b03362b8b7d9fe9095b5e67a650ce492a619ea",
+    "9c3b5cfdbd7c8f78e5e39531be70911b680c7cdfd8584d4fe0456c64e5783c66",
+    "9c6dcba90c965d1f2f4e4e3c844e0acafa11530909f4ac76f96c0ba21438ada2",
+    "9c7f3752b0913ec3e962bc86fc848d23d84313ec57f6f400f8e3b7dbad59eecb",
+    "9cca67b67f578d767232fda8c0db256b38918f5720c88ff1e424ce2c4dd763a0",
+    "9d85ce35f9850fddc04d8c06564b19bfbad4fbcdbb9f96fd91edef2d2c3cdf15",
+    "9da007b523c6a380f902795dc9d247c6518947ef676cc38eb0424165e808112a",
+    "9ef6d43ecc27253e89419c075eb6d41c5a6efe2849f475d71a357a7259ea0cb2",
+    "9fe9b3089b8887479dce50450ee8d6b83f04ea85bc818d3e1c8e705973df755c",
+    "a00610a83ddcacd11260310270292abff2df6e3a0b4d2885032682e780af3942",
+    "a04ed42825473fca1a9ec92aa7c0a1d7d5c57f5c2f48bc50f178b2a50fef9735",
+    "a109ca83b9dde4ca8f784ac6aadc5904c21da70d1a8b70e5f09efa306f7be959",
+    "a3dd70b66909a3ff385d52d295ef8e9556512b13d4a27458c16194fb53fc825e",
+    "a91a6e5535c12d204b8b444766a142d607022bf8e69947dac3f3a30e65ec486e",
+    "a97fe3c9d1152176986f1d732cbecea980481ebb265f40a508cd4304d2fa938b",
+    "ac77b2a8d8197b3f3e32504c7aebc9b98dd47de42822573054175a0e71d50011",
+    "ac939dc0e321849207323e1fb0f9bd9bf84ad362c5d16e37fd4f28fcf5f33656",
+    "ad2c8cc34b05425b98778e77626a4e74d4304b9c0c8339910faa6acc3aec18e9",
+    "ad41390db98488361b3dfc1c2c76af91ea06674f80d83e5abbe5b2249bd558fe",
+    "adb274751e25410c3dd7f339a0b7ba74ceca93be510ae077ce82b3db0ba70bbf",
+    "aeb7cc828049e22f4b16028b23cc658c422571f2644d1f20a87b25a27132302b",
+    "afa42d975b775de8b8d0b3ff846bf727e8305ac29a67b7ff28925c24fd7da0df",
+    "b0db3916cbec706e2d70c82ac1da65af7e4f18b1905d3a2094bc6a8f5b7ee9ce",
+    "b12112db7bc267d5bf85060cdaf96d22acca8f9aab4a4cdbe04183fa6d485545",
+    "b38044ae3558d46c9b7d0dd893d27f72a63752da425c4e3c93a2a3f2030bf984",
+    "b4143aaaa44023c9133b7bef02af88ee14a23d8fc5a5b1073e63edd82490d1b3",
+    "b459115cb8fdcae7ed2b0d5b9ab75703dca16db098ead4e40ee6e7faa43cf33e",
+    "b64e93419117448fe6294a63bfa9731fdfc0c94fb8fb4d7d4e72f2892c75faac",
+    "b857aed514321c72f3f796b002525012bdb3eecba8dab73d1607f67aab9101ee",
+    "b9b6c6a54200012786e52a3e13e3f8c17278b0959ac820eaf3210b4e72e6191b",
+    "ba06ab2072bf5a49f4def4ec437e58a34ff0be01b169a08721c062138ba9ca74",
+    "baa832eec4a4e7e6bc481005f47ae984701465db0eb02b7b351e63543a9e2b89",
+    "bb50df859b8b670bc20969e89bc385799bdd6c5d1ca9c6a70b950a096bfcec25",
+    "bbe05b8c4511c2bcfa89a4a3871e36032d1953bb7171206d15e03afc4ab51995",
+    "bc48e8ad60cdb57d0309827af7313f46107d079b8f8148832cd398b071d7ef42",
+    "bcbbb5bc74f878d99befe9e807f984a686324e642a3b38f9e5dd1eaf8fea51ec",
+    "bd56c78aee5abaf2bbd6551a61d62056d2be976416bc7f0f07a7e97ab658fc2a",
+    "be860d5aac5a257c77b413fd0d193185a3a64e30b9b2fe8e827d2aca0295ea9b",
+    "bef83017fc4260189cac14256597e4d48bfc50076f669ab8dd2abdbb63083dde",
+    "c067368c8cdb1544f7340a2cbc402247a799aec81a706608870329138589d178",
+    "c105ae29049a87dc64f882cd4e7e8c4cb7fc269365056663a547d3f8eb4b2b02",
+    "c187887c3f1a2740e1500a81d9ad17a49802cbb99c10b2bd762dae61500c3068",
+    "c27e8ce57b1d2d34fbda2460d88f8ea92b6dad37dae00cbe3c14357596e1ab20",
+    "c3427b6829544e3e34d9c3ea0b6b0272e8d7ad5a3f10d3c67eaf4353c8297ecf",
+    "c41b68294b25f01364e243e37cfd5f6226ec016f10adcce06111ac4d7a403453",
+    "c5253f50b0f2571140f495ff02fc91c116631c486df6cf226f18caad777ca454",
+    "c54c0b448a2bf8bcf5760e1f1cb1bf715530329dda46c6d28eb3f6c95f763727",
+    "c615c5f2d3ba7c7115b536761168187472b90e3b1dd8121a678053a66f4fdb40",
+    "c68153f949a113553b262c6367314b352997d1c67e96e039853295beba8fb781",
+    "c7dd926fa200cb9d26724809576e17a203c577ef44755617a7170d4ee311d90c",
+    "c80927c3737836e5c9946cc60fa438e1a686ad7a153561244348c3c515cad918",
+    "c823405c684e103dcd770b19adf0d9803ea530f555dee60ad88ccf53799bb48c",
+    "c873fda17e86d578a0ec1d03ceb308f7156d6c2ebd83dd75f977e26dbe8aab8a",
+    "c9e74aa4e21279c7bf47359a8c84aa474695282e5e04d982922700b491bed91f",
+    "ca336b9ffdcd36ce2abcc71490a2653796b78697875cf37db5133a9901b74cb2",
+    "cc95e48b28e32349b15b8e73ac8cc68a9053b266b6f0d92e0400834104baf806",
+    "cc9e313073dba6117b70fa3953f4fd8544ec3d63f8b63598b90818c51fa30767",
+    "ce20e4e6873feedacc6e2b7001def736d23636bab1924512aab0e372e5672a54",
+    "ce73ec6df06029fcaf97d070bad3bf15108e459e772764416f0fc40d3749d163",
+    "cf3c3b3f554519e4d7ac60cda0046aa78c7ab7d0ee9515b141d8963cc15e8360",
+    "d0402fb9ecef9b12bc03fefcff7d53bbbb2c1d87f0586a7aac44777ead7ef243",
+    "d23fb5a4225eae49254d6f37f18e156acd2b393a6f1918398cdd2b215b22872c",
+    "d2e4f4a1a2a815b30e4570b848506a41fe6245a2e09430b0bf3230b559557c05",
+    "d30b3603b76c27913d9bc624b1e57ac57033cbf6c4358cc5f1b8fb465b9eb012",
+    "d6a9e41ebb0b81d62100d813abbd66c5ea979309f9f9c04a3daf6e99b9d8fe89",
+    "d71e4f7a988674fe13b60479a8fa1679f32d3590fe17957cb492480a25bef9f8",
+    "d9724e4c47ecd6b669dced63f2f818e406f81a505b123459fde0338a3c344994",
+    "d98429b28ec89ac9364e0d4f16da2578cdc720be7f4a3f163a6bb652452c46d7",
+    "da28a67d8dd3b7f317fb778c07d78ffc8525d02fe958b67efda17265921d1e96",
+    "db43194840d6f54a5917d39fe732d39e699ecdd2734ef3bc0272d231a45e42a4",
+    "dd1a6bd8e5ea578cb31f21b812145ff22b3e51dae1b87ade235f4efe99a5a88b",
+    "dde4dac3fdce6051d3f9f2e44ed554e9ba9b11b5d337b5a73b2a525030d7f90e",
+    "de27cacb82346fe3eccaf0a6eafb012f5c3bdd4e8128cd22e1466d56da5d733b",
+    "dea0b58d8887be63681316f2157f7ecbcea6490df49b013d7d2f3a72088908b4",
+    "decacfecbeba86199f63f3da6308dc52662bdca835355b9b8287c61086ba7616",
+    "dee10e1c6fe778547912145117cafb28e1fc8a236638ab0544950492d7d294ae",
+    "df08dc1118db1ad108c724640884d221f936d2f00558593df7ebbc25c18d1f66",
+    "e1c165a8528769386de900365479bd6ab8dafe25e1a35898a424bb29e718cc33",
+    "e1c9ab3bbbb8c6df58d1a9609e6c8de01d6bd321a69ebda688bb2ff1f27303bb",
+    "e51023f7ab9025b195140062ef5c33526eb55fe45079b29d113bc14172965a03",
+    "e543985993fec168f4b81c3e7d57f0fd1936e261a1f6cb96f320977849f438ea",
+    "e6b41c0c116147d316720d19ea6d93f661f54a5d50e7f16bd392f242a633aaff",
+    "e75b5ed02ad75dc78a17b9f36a2f5a0092c4a775d79a2844b468f1263ffcab2f",
+    "e77732e6d36a6bf78eb85ab8a09cda75f617c637e95f502d1998093f9096247c",
+    "e8d77f2be7ed6a726f77d45917c97d3fe68023ab504259105dc05d72af179837",
+    "ea470b40810d5e9d288fd1b19a4fff74a210efb11157b8f132ff42d69ff6a0cb",
+    "ead4ea243d6d7203c5ae41dcc3f0fefc52267589a0512f0a29961df7141c53e6",
+    "eb13774a5aba86403b324e2484fd2b8442ccdef4953f919baa10ba652c8a561a",
+    "eb77b585b94ec37058dd9289ac753824bad2ca3186ec509a06fc331a92193094",
+    "ec93e13a7337fbbf996c70a632956ea50428937990d511f9f2967022f5438e48",
+    "ec95321167220842e25f5a0f11b97938741d14620d28a2570723e1390be365ee",
+    "ecf5a1893886eabdc2ac7b92c5534eaf1def9f378236b30451eec6cbcb784ff9",
+    "ecf678ff048043a244fcb4ca44c896532e88e2d9ee3ea6d8bdec6ceb00aaa2ab",
+    "ed53e34932bb333ab6dec5cdfaff775178e018970f870055d471b607ec7d82dc",
+    "efb51272d5f41adaae77fe179c795851cd1fdee6961fcc967f499dcbc20ef93b",
+    "f01f45c8cf0d91c67915b1d26b22d0cf0d49b7d8447aefde2f5e320391a6e27f",
+    "f116f7e6bab0ed0a478a888c7fc6118220ef8b722bdfe3ce763ef5a9480f36c6",
+    "f124235a552d41263b2d1f9fbb84184807ce8eaca890cb02e4b2b180ca72ffca",
+    "f1b3643eda3dade76eba1dd54028380bea7bea7abc07c07e8230a27598ce95a5",
+    "f2467a819064d74bf028a5f4d82fe269a91a804abc901bd503e6b6be0acf0f0f",
+    "f2653476cfc9deaf0613f1c0c4c45bea49d4fbd23401cb3f8b1ebbef99449653",
+    "f2a46c4bd64bdf2dcb5d410ea2bb222346a499de17752edd638fcffa22157ffd",
+    "f2ef2ea44d1614dea3501a04cc41f3dd14f13ce2657f5e6830318b3c36f472c3",
+    "f32834a15c1360edec0e6026afdba1cde1d63c7b9d249ac9ab3411100d60fb52",
+    "f38c81b4320ba1e563f9efc0a4384bf3477aeddb29af34573549f4340bc556ae",
+    "f39ce9d3ddf07d3776ab2af2eb8c832cf9a86b899a099aeab1290fed91f86ee7",
+    "f3dbb68e0a83d98ee6f2fe3cd762399559c35940d21fd4740b8f4d888176f8df",
+    "f43b238b951f9565deac94c2913bd0cabfa00545219992dd9f9469c814afa146",
+    "f55334264d9a885c12d96a280552ce4c4888510953a6f0a7fe52da67ca9e8b89",
+    "f6c4ead24006318a867c1744e290ed32ac9ae7f15f75d3c9e8eb0be2655277a8",
+    "f8ce9f5d60e4307dffb0ac536888e05eb83fbd056f98bfa4c393fcd8c24329d6",
+    "f91650e9d389dd22041a225297852585cb96762254c7b81b7bb13ec2953356cc",
+    "fa0daeefbc4ebd6151c76d50e06d867e1129a2dd31596d238a2fcdb2bf9ab56b",
+    "faaef3965eabe3f2ae0b430fdc8e0489616549217bcd24f77043a1f051a93cda",
+    "fad75c36effc6da4a398212b375c64013edc2b8ef8cee46cdc56689b0645d295",
+    "fb0d7d14ddb159d775399e59a4f73508075470d76431b1c9995d73772c1b614b",
+    "fb0f9adbbaecf91691888dd9199cd57b524128f279b1a446a32d30d3bcd33a56",
+    "fb5012c4eff00c761bedbbd5ac9a27a67d57059d1c60d132de44142f0b65c57a",
+    "fba02c4324510ada19e7bee59e6e3223e278538a1bd216df341fd72a4060e036",
+    "fc710d0348c566909ad1a51103d4e2685dd39ee7a3cd3243349921cd45183c54",
+    "fce68ed4e5ebc935d5dc71a7a011d0f108ea0a122ba4a8807f79cd5c52e3df18",
+    "fd4f352f5810237b36ef4a1916718b0a9ddbe395b2c15b96ce050836022dea2e",
+    "fec67a4436868dff3e9fb2d678b7c78a6a35cecc72c6a2172d8af8a8b5feb4d1",
+    "fed9eb6be9bcbdd486f3034917c7a5affb210c5c5b7e677ae2233bebf2f55e6f"
+  ],
+  "unsupported_for_review": [
+    {
+      "sha256": "00615e4abdcea22bf62340e2d5e2f4849fc12adf63edf1e6d05a0a836175e765",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.tablesgenerator.com/"
+    },
+    {
+      "sha256": "00f7e1af2cc6a95179b4c205a937b83d93888e9c614ac1046e1359123ee178bf",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://e-hentaidb.com"
+    },
+    {
+      "sha256": "0159be0bdb1b90a2eb30ae373a036932887ed3ae8036af2619eb9bc66b7d172a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://uncyclopedia.hk"
+    },
+    {
+      "sha256": "019a30664256370533e72d14fd1c59a505fa6fb0c33aa8741c85919f70edf778",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://freakshare.com"
+    },
+    {
+      "sha256": "0400b8a19b64163785789e8db7b734f7bb8312d3f817dcc9190f44bd8f7625c6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://jihadology.net"
+    },
+    {
+      "sha256": "055c0bd13867c61817fe6022278085e58a4c6d9f49eec7d63002f06bc1990b4c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://lastcombat.com"
+    },
+    {
+      "sha256": "057f2e25d3bcced670b6f1890a5868a43eab0f154434a0057d0f2f2f9deec174",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://nbtvpn.com"
+    },
+    {
+      "sha256": "0600515eedf85e909425a680b9358db57bb61515a75c2cf7d4a748fb8a62a17d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.taiwanonline.cc/"
+    },
+    {
+      "sha256": "06a44213c9814e3d500e45bcf36ae3b294a976da42ab0abe69a62b169dd2c047",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://baramangaonline.com"
+    },
+    {
+      "sha256": "077426bb8cbe79f202444faadf04da9c4043c2460c0c245cf9d81eaf5d3a8258",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://xing.com"
+    },
+    {
+      "sha256": "0909b8b36f3ac120d1ddac837622986938bdaf8481615369ad2d420ed37bee15",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cos-moe.com"
+    },
+    {
+      "sha256": "099676fe60b5f25e525eb152e5c96440451237389ebba9c427a71c58a8348550",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://faith100.org"
+    },
+    {
+      "sha256": "09e05295c8e1c59fefd984f1a0d25dfc2133a6c727617c32880cc006da0aad51",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://kindleren.com"
+    },
+    {
+      "sha256": "0b078efd95c813d3492ea23ebddc75323a103360ce3bb4d084872370cfd03a65",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://woyaolian.org"
+    },
+    {
+      "sha256": "0b090e68bfda6e90bfe028570d0289d9bb8185c4b1436ffc4bed04eb475ffcbd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://chinanewscenter.com"
+    },
+    {
+      "sha256": "0b3a9c12bea9045fdf8ab8683a39987c8714b2288fd241f8998f378edc28a962",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://catchgod.com"
+    },
+    {
+      "sha256": "0b911fcc432f72dbe071fd12a68f09a5e71cd8597bb6c53bb9084352fbc3dbc0",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://earlytibet.com"
+    },
+    {
+      "sha256": "0b954e608cafae9dcb8056d7202c055a63701bbeb7347ca325de46abeb4702a0",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://appshopper.com"
+    },
+    {
+      "sha256": "0c7e7ba23ab86f784896eb30da272208aa18dfd83111696f1de28cfb102ee765",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tmi.me"
+    },
+    {
+      "sha256": "0ced25ccc23fd8f60ba39accbf41724ed3885939829e162eb086d18641cddb09",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://lhakar.org"
+    },
+    {
+      "sha256": "0e251a4536c90cb8f5146cc3cf42e8ae38a79ec0297ce9a5540a4c1b2c494eb0",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hum*.uchicago.edu/faculty/ywang/history"
+    },
+    {
+      "sha256": "0e3bd45ae2b160f4c5cc38fc5929bf4d76758db20a037cd6c6aad2722e75388f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cdn*.search.xxx/"
+    },
+    {
+      "sha256": "0e55530fd1d63fc067e097154e7ec970e1e978faaf4ef6e4e66b503c1b1de443",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dalailama.mn"
+    },
+    {
+      "sha256": "0e7bba452abaa2d047f98dd1cec8cf1b1b52c8c7dc5ca65750aade50b43b9045",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://*.sf.net"
+    },
+    {
+      "sha256": "0f33858ac8bedd2fa0409e871efe5c6451376fb16f7b554de2f9d623136abacf",
+      "reason": "NONSTANDARD_DOMAIN_ANCHOR",
+      "original_rule": "||gle"
+    },
+    {
+      "sha256": "0fb128c9fd9fdcc8d3e01a35452e5cd6ecde2ec9f921543b8c965bcaff4827fd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://adult.friendfinder.com"
+    },
+    {
+      "sha256": "10dedcab138325a5bc772882242dccdbf1205b0836a6bef0edb79010e38080bb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tl.gd/"
+    },
+    {
+      "sha256": "11df648600571f72c4463f92917d7dbf4690dfc1830f59e387b0ec1f8aab7148",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://thegioitinhoc.vn/"
+    },
+    {
+      "sha256": "123f1b4dcb403fb0c23368d2d3334f7d315c2510012b9da9cbbf76b1f5513d30",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://wemigrate.org"
+    },
+    {
+      "sha256": "1250168b56a10f2f2ca5af0a0b6eaa68b1d07cc141fb0ca17cec9bed53d6b234",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://startuplivingchina.com"
+    },
+    {
+      "sha256": "13ee113655ebe8ecddbcec4b1136bfd48af91c8f6d268af3d15d3d5c6fed40a5",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tubeislam.com"
+    },
+    {
+      "sha256": "1414cd278c311af320d3c4c921a1ba66804edfe539d9de05a84d6cc7a514ff3c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://link-o-rama.com"
+    },
+    {
+      "sha256": "1592b0942102a472195b26ce6649eed3f7f1ad4480e3aacf900a747bf0c3a7b4",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://twifan.com"
+    },
+    {
+      "sha256": "172c61c968c94bcdbc24d70914361ab9bd1b184cf8ed7db8becad863323180d1",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://library.usc.cuhk.edu.hk"
+    },
+    {
+      "sha256": "1755e51f1606ff751f4273ce357dd0a9063e830004dea04fb1a4b8847bcb6f30",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tosh.comedycentral.com"
+    },
+    {
+      "sha256": "18eac6b45d37bb4652d0a462b381400f99704c17ac936bc3c40147bfac737587",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://htl.li"
+    },
+    {
+      "sha256": "18f37cf858f6344dc165a64a7c43bfcea7147275e4d26517342dbe14b96ebaeb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://uncyclopedia.tw"
+    },
+    {
+      "sha256": "1c869bdfdbad3325c24f1498eb4feee183d78ccde4274ca60d61dcc390fe9021",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://rxhj.net"
+    },
+    {
+      "sha256": "1ca297781596198529caf6563092290655d31134a6f3f869ca0b417105ce6550",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://city365.ca"
+    },
+    {
+      "sha256": "1cd36f65ea6a141affdc8d889348d40dc108b236dc8085d510b42d696d421fa5",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://securityinabox.org"
+    },
+    {
+      "sha256": "1e368aa9938e190d57d68c3b31cd3092616b21d4e31689c620c3478379257283",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://upornia.com"
+    },
+    {
+      "sha256": "1e6e045e1f99723e9a6d4b634ad6190116468694df231f7698e2866dfce300ea",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://sbme.me"
+    },
+    {
+      "sha256": "1ee72a1d62667862903b0c8eb9f6b1716035d9af5b82e7b12bc7014dc036ddfd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ubddns.org"
+    },
+    {
+      "sha256": "1f305188c06330e90e1173d62464aad4fd4cd5c04d43449fc1f6a2bb0c2c3955",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://*.wordpress.com"
+    },
+    {
+      "sha256": "210b39174ba699128fd1956cde6c54e0f834a57de1d1bf680d5eaa83e74560d9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ub0.cc"
+    },
+    {
+      "sha256": "21ae01fc2fadc1cfe2dacc4fd17f62cf2cb188edc7d670335793ffa3e6a0d476",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi"
+    },
+    {
+      "sha256": "2279da0dfa78a1aff3ae8ce8a9af9cf0956f789aa7adde5e66935f7a4763721d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://alanhou.com"
+    },
+    {
+      "sha256": "23605ef9e11ee4fc914b6f1b964dcdabcbc5fdce8769ce79ee8566aa95b079ee",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://aofriend.com"
+    },
+    {
+      "sha256": "23ac4bac76a4cc0372218cc824846285b28bcadde0b0ed36cb2499873f017162",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*"
+    },
+    {
+      "sha256": "25608fdb35ce03c94aa866a4e0ad9427cba4aab8de0743eeee771bca2ae9d4f0",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://superzooi.com"
+    },
+    {
+      "sha256": "25cb7e730aae8415fb91c801a5af3db21a16f8e52822648d877eb7fa47b77ce7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bit.ly"
+    },
+    {
+      "sha256": "25cdf21ad1d6c1c17aad8bc4ef505596a0700abacb47a0fb2241f42d8ea8cc8f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://d2bay.com"
+    },
+    {
+      "sha256": "2965a33e0c0d8c4e3892cf1b884dbf33ae5b5dd9257197d2e1302379f4997539",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://juoaa.com"
+    },
+    {
+      "sha256": "29d49eefa9009ef42495a152d94507f9acae69e550ac1e7222acf5266bb41fcc",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://85.17.73.31/"
+    },
+    {
+      "sha256": "2b806c60c898c949b1fb2a3b7b1e9d59a0e8ced60096af7fcc02b4515e7f4245",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://homeservershow.com"
+    },
+    {
+      "sha256": "2bd8f7aa3fb598006e9a7ccb7bb41eec395f55043219e58e627bb1c204c79cf8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://radiko.jp"
+    },
+    {
+      "sha256": "2bef8133cbcd3038a6217bc3d4f550066e1cc1e19f18f20fed089d9708f17ddf",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://amitabhafoundation.us"
+    },
+    {
+      "sha256": "2e3ee1c7e8e2a30af151928d4a002c662d5ccf004a2321694f1d2096bdd55750",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://blog.ranxiang.com/"
+    },
+    {
+      "sha256": "2e46b3bdfe59bc4e93c812c17978dba7623a60606012277b75bcce1e5ea04965",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://fhreports.net"
+    },
+    {
+      "sha256": "2ec62ebc53f6c535f77736a0f55ee19ca8407229a388782e92635a3731a0cb6b",
+      "reason": "SUBSTRING_OR_OTHER",
+      "original_rule": "www.aolnews.com"
+    },
+    {
+      "sha256": "2fe4db500ad2c87cd1f12d9e6fe52ef71145aa4fb57231c7ea2636982d52c345",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://yeyeclub.com"
+    },
+    {
+      "sha256": "32cd8a7b774308e6b35bc89032ecc245137f95e39bd3f72aa9ddcd23f2ff5d37",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://yes-news.com"
+    },
+    {
+      "sha256": "32e3aec03d0387a421a3e69b3d94e6f2b46508a8e85923066075f68fa2ec7119",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://w3s.link/ipfs"
+    },
+    {
+      "sha256": "331fa7a55831751d7256f766875876dc3104ea00a218d7a9509c13249871e794",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://wiki.gamerp.jp"
+    },
+    {
+      "sha256": "342778dbfeef9e2b303948df8255b219ab01a70a4adc0c5daa59d9a6287ad565",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tbssqh.org"
+    },
+    {
+      "sha256": "359981b531c6fc91ac5d018c9e1d13fed32365c1e474b73003cbae110402a2a7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://softwaredownload.gitbooks.io"
+    },
+    {
+      "sha256": "35f634d944468378b0790fed5098af9303b8bcf6f5c5f2123f8a893dbc8c0099",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bell.wiki"
+    },
+    {
+      "sha256": "38c505f8b824012581cab2bc236799c28ab70d3b8d9dfc51648e1d9f84d351c6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://readydown.com"
+    },
+    {
+      "sha256": "3940abcbc4e1c235800c64ae403d3741155180b11aae59f78c49fa2ac93bff5e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://digiland.tw/"
+    },
+    {
+      "sha256": "396538af1289b492d4429ec4c634f503391d025d3eb51d4ef34d944e661a497e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gojet.krtco.com.tw"
+    },
+    {
+      "sha256": "39f31ec3c89af6c1f927bbbc0c5afed8e6fbd7dcbaa8c56a42bab13b6adf3422",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.cmoinc.org"
+    },
+    {
+      "sha256": "39fd176617e9869e4b0dcbcbf3e8d16f17fc4af68acf53761cc142a4beeb2806",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://emulefans.com"
+    },
+    {
+      "sha256": "3a202a9e46a02b1e3ef88fa39c0dee4de6d64f155cc2077a1f2da6db56b1c705",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gu-chu-sum.org"
+    },
+    {
+      "sha256": "3a3cb069e66f8fdf79c519977b98ff028a73735f95c31dce26b2a7f7f65f54cb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://centurys.net"
+    },
+    {
+      "sha256": "3aaa019bb522dded161169bbff7dd3054efb381d7ee0b9352ca5dc9f944bb3f2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://motherless.com"
+    },
+    {
+      "sha256": "3b13ddd41adc63c177afee354a93f6515210e3c285c4a99cebc644bd8fac6156",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://freevpn.me"
+    },
+    {
+      "sha256": "3b5dc253a126ad51ac7bc8dc86d3b8ef4cf4de8994cb89ceb34dda3e35ed351d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://saintyculture.com"
+    },
+    {
+      "sha256": "3bff9531d1e2002eb3afbaa4bcd0075dcd418f6830ffd596b04961cd6e2e2688",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gelbooru.com"
+    },
+    {
+      "sha256": "3c4b5dad367a31cd308c72c165215ffd3eb506d5e0c6b531fcc92933d92e500f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bbs.cantonese.asia/"
+    },
+    {
+      "sha256": "3cc872cda535e575d1d39d19894ad1998350d5c3d05f3c8602c7711a3fa6e60a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.zensur.freerk.com"
+    },
+    {
+      "sha256": "3d18006c1fbdfacf66fbcb1ea0889117afd8de721a0dd0534057326091c1fb58",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://busu.org/news"
+    },
+    {
+      "sha256": "3dd4356306e32c8887982ed74c0effddeea7ca95bd50c4bafbfeae69259958b7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://firearmsworld.net"
+    },
+    {
+      "sha256": "3edf5fe5f6a8b6b933be7b35aa0cd43920338e72c8c276bcc66b861bcac365e2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tibetansports.org"
+    },
+    {
+      "sha256": "3f4a9c4ee2578896d21470ff2bd9ed5dd10f5c6173a5a091fc8dcf6a4cde7455",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hkcoc.weather.com.hk"
+    },
+    {
+      "sha256": "3fe3bbda72d0b769276480df6d171d69829fe99f47390b5cda7a096f13b925c2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://biliworld.com"
+    },
+    {
+      "sha256": "405767f9884bd36a8e8f9f8ec44e78457900673d1e850672905da9657a37fe04",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://thedalailamamovie.com"
+    },
+    {
+      "sha256": "4208b759e63cfd7dd4c99ae2fcc04208c41d07db883066ee5e58f9e85c5a62b2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://nyaa.eu"
+    },
+    {
+      "sha256": "42e1d2aef98f568aa5cc136d12b962a285cf26e96a50bcb00d068d142cc42f1b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.dmm.com/netgame"
+    },
+    {
+      "sha256": "46744447c1117279995ae70a4a49cbdf1bacd9cefe2ecda0aca0d4ffe788e3dd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://adpl.org.hk"
+    },
+    {
+      "sha256": "46ea703e141497ba91686190b0bd9139f1c8c0ac2fa5423e7005bddfc0b51861",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://riseup.net"
+    },
+    {
+      "sha256": "47412e4560de9409de3dd51d85be550f3fd957e12acd2950cc40c23c4e0603ce",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://bartender.dowjones.com"
+    },
+    {
+      "sha256": "479b934340314488a663ea6c15b56c0c0d07c4cc81586d8917c489a7375c17b9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://npnt.me"
+    },
+    {
+      "sha256": "4924008e524cb124d02dd2990728702cf6ac37bb9b38387991ebef5db7bc256b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hec.su"
+    },
+    {
+      "sha256": "4ab20909cec29f1773ec1071c9900d26aa16705f058c704afcb0ec183e1344bc",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://torrentproject.se"
+    },
+    {
+      "sha256": "4ae4731c10bf8e0af1d7683322dfc0787156faa9567846e5a7a1c6b61dacbd75",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tibet3rdpole.org"
+    },
+    {
+      "sha256": "4b962aa5efbdf8c5b85b6c0339d6ac4bf0e855b6865f7ac2e802440daa4b7fa7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://feeds.fileforum.com"
+    },
+    {
+      "sha256": "4cc46cf05dec4881565bb0c2cf716e265204d13457d5cfcc029ed7538a20d4d2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://sipml5.org/"
+    },
+    {
+      "sha256": "4efbe693165735abade7e3bd04e2b8a2d418b7159efdc1a2295626af91bd0812",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://casatibet.org.mx"
+    },
+    {
+      "sha256": "5185668a91ba2c698af92be968aa2f479fe9ff7a928a8a8dbc0cbbd36a29b01c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tweez.net"
+    },
+    {
+      "sha256": "51d94c64c0d9db33dff77b5b0d84323342e5048f6d582551c501dda5739446b9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bit.do"
+    },
+    {
+      "sha256": "52016fc2ffc93a821f8985d4675bf9b92f9d9cf3ab0a063d044f54a69cd83b7d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bangchen.net"
+    },
+    {
+      "sha256": "5315b39dd225f5bac68fb6f45c653a11e69edce44770e1b0469c65b9eb80e484",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://andygod.com"
+    },
+    {
+      "sha256": "53a7b6594d75c217bf4309b052a3dd405d698985d4ae0d2669c3177aa46dab82",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://zhenxiang.biz"
+    },
+    {
+      "sha256": "544e1ee3c2afc80f7e97c384c96bdd53aca433e8fac418576456a47d63fbed06",
+      "reason": "REGEX_URL_MATCH",
+      "original_rule": "/^https?:\\/\\/[^\\/]+blogspot\\.(.*)/"
+    },
+    {
+      "sha256": "5485cb2a9bfe507ca4699adf850971aad963c5fa32e08c6d3033df5230c1961a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://efukt.com"
+    },
+    {
+      "sha256": "548ef2b8b8ab9ef21d45af627dce6eb0588f9574cf5677ff70b766eda4124616",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://viu.tv/ch/"
+    },
+    {
+      "sha256": "55fb2671dd45ae2767b9e28a66d2db034cbd153218801cbff73cf4ca78e9a277",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://feitianacademy.org"
+    },
+    {
+      "sha256": "5655dfc65e59f0f6c26d7d5ae56ccecfc1404e058b3238e4433d36b9c174c31c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://afantibbs.com"
+    },
+    {
+      "sha256": "569259666b62f78708c18aa3fa25102edf85321a972a1c4cfcf483e76d34bff1",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ift.tt"
+    },
+    {
+      "sha256": "58fc8a3b699b58f7c278046c01c6ae011de7a095534c12133f6cf072d86a1f1c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://unblockdmm.com"
+    },
+    {
+      "sha256": "5bfe432a32ab389b654e60f99c6892657892b604d557c13736f84d7e25dab541",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mjlsh.usc.cuhk.edu.hk"
+    },
+    {
+      "sha256": "5c861baf45391d2a5de38e520d41896a3475d62a6f347c57197b14467287fea7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.skype.com/intl/"
+    },
+    {
+      "sha256": "5cfc8f0c9e0234aa5087779a35a8401b32fdfe8585342e859997f1af3e24ca6f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mcaf.ee"
+    },
+    {
+      "sha256": "5da3dbc8c9c9b3697581f9afa17dbc94ec1d047a88bd67710738bb71a787e7ab",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hk.gradconnection.com/"
+    },
+    {
+      "sha256": "5e2a2300eafefc1bb884c3ed2d1d6b51c28470cc48739d11890ed4e29bcb3567",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://newcenturymc.com"
+    },
+    {
+      "sha256": "5e437864f099972119d44191c5e9bf4be77776a9436292b7a33cdc3c62578efa",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://nyti.ms/"
+    },
+    {
+      "sha256": "5f095071f4406fa05966a38cb1e1630d412cf9c9bd9ecca8cc410cfe5e34650f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://pornsharing.com"
+    },
+    {
+      "sha256": "61dac7bdf66d7fee0039579bc0a2149939efe4cfb0f73f6ec8be005d8e6b7e9c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://uymaarip.com/"
+    },
+    {
+      "sha256": "61e35310c15251add35045c0f8a7cf2e28d19e3215892d175f30b2f921139926",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://shwchurch3.com"
+    },
+    {
+      "sha256": "62c7b5b88e77653a7d56b858f15176d132fbc7daf1fa85410fbc1f7e7fc779bf",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html"
+    },
+    {
+      "sha256": "62cafa4112205da88bd30963097493dead20291bc9adad918c2251493c09395f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://img.dlsite.jp/"
+    },
+    {
+      "sha256": "62f19e4e2ffa5bcfd0a85fe8f38b3ac52650fb2cd6e1ae3550dbcdde822f195d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.eastturkistan.net/"
+    },
+    {
+      "sha256": "644d4d5051acf859fd233a37c670072544bfcc8fbfc3269b12d7b0360b9ce3bb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ssglobal.co"
+    },
+    {
+      "sha256": "66d302a2a6e77881f5d250390e92c14f429f8a1bb281ed76baef05865fbbd179",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://timdir.com"
+    },
+    {
+      "sha256": "675dff15a553465e706810da991c2248221205ee8b428987bd17b252b68f9d07",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://d-fukyu.com"
+    },
+    {
+      "sha256": "6844e11d045ddb8ccab512a7b5ef8db9df30ba9dc749451d61e8d0edef94362a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://crocotube.com"
+    },
+    {
+      "sha256": "6955bdccaa43ff01784fa8d6ba60b7ff3ab44098a2d45bf010106ee4126dee28",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://xianjian.tw"
+    },
+    {
+      "sha256": "6a0023da311c947759e5c2b002993d211040151444dcb985160b4102f3e444bd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://maiplus.com"
+    },
+    {
+      "sha256": "6a56814a74518b089cc14d9394340e29e0c6704fdbbc846dea6efed6273ef546",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://huashangnews.com"
+    },
+    {
+      "sha256": "6c6b936083d58d77e5baf3a0a384f15344961bdf1b8be3559ee48df37c83adc6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.hustlercash.com"
+    },
+    {
+      "sha256": "6cdbd49fbc1ece6c31c25c399ac868de73c079725b4471de1a0c01ada951af49",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.s4miniarchive.com"
+    },
+    {
+      "sha256": "6ea07e458043d85351c5f568f7da469491c922e94cbbbcd9f51d3b40a7ab7971",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cosplayjav.pl"
+    },
+    {
+      "sha256": "6ec5b82f1294e5c2cbc8931c8e49ee085ccc927102db37b6de6116e16786f620",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.idlcoyote.com"
+    },
+    {
+      "sha256": "6f38fdb1910cdf6f8766f0d7a626a3126fefaf09e5aeeee8f2d7b39fe0d6dbd8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tnp.org"
+    },
+    {
+      "sha256": "70f53c576a5bc8a7a3175f2dd72e39d754f87216d64931ab7185fdd9a17453c7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://falunau.org"
+    },
+    {
+      "sha256": "712b999b7e3133ddea86b850ac9a4264d94525d3e1889fbcd9956821c504c217",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tumutanzi.com"
+    },
+    {
+      "sha256": "749eba8bee4021985016fb053ac1cdf4b7979578099ecbbdb9b0f5445c806367",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://facesoftibetanselfimmolators.info"
+    },
+    {
+      "sha256": "75ddc023df243b55459309cd3a66fe898b6b9330b160e06aec5f0fbb1fdc8d5b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://e-zone.com.hk/discuz"
+    },
+    {
+      "sha256": "78203055e0678210cf70e3989e1215fe06b5ced3a33707880201314a7bb6ce53",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "||cdn*.i-scmp.com"
+    },
+    {
+      "sha256": "78330bb4d41142de23bffdc3d198d886e24b71369f3a3cece1511045b99d186d",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://onthehunt.com"
+    },
+    {
+      "sha256": "7994074d64f5c8c7bf6f64e5da96f4992bd1eb81b238713d8538454a598ccee8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://anysex.com"
+    },
+    {
+      "sha256": "7a0695c5a563763eedafb7ef30ac2bdfaf98cb6e0592a5192a0ffb01dadc829b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://busayari.com"
+    },
+    {
+      "sha256": "7c7eee63395110e28548e165f8aaef2c856ab541bec19f8d3f4c6149363f9d26",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://aamacau.com"
+    },
+    {
+      "sha256": "7c9861d94153efeebbf9d79fb969995da28a6f5b5585ae7edcad9c3da89ea5ab",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cn-proxy.com"
+    },
+    {
+      "sha256": "7cf454b69eb65878622b768a3236aee5c6d718be23390fd831447db7d00caa2c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ht.ly"
+    },
+    {
+      "sha256": "7e710c7c87d2764bd601a5618e55ba7aed4ecd1d9b489b0c468f6462cfb376f5",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dstk.dk"
+    },
+    {
+      "sha256": "7fffcf749e33ba242515916f8631143b8445208b4f61da176a35c002ddea8be5",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://acg18.me"
+    },
+    {
+      "sha256": "803b3246fdbb5d1eb8e38bbf0a439aa5e2b0f07e0547ffcdd9f98824be54700f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tv.com"
+    },
+    {
+      "sha256": "84f3d426e2009f73fb1d0c7982523b9e5f7b5f15eda4b2a38e70f8d805b911e8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cn.fmnnow.com"
+    },
+    {
+      "sha256": "860abac6694cac6daaa453944985871e7ba538c7b2b31ed154ec1697faf1fbfd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.skype.com/zh-Hant"
+    },
+    {
+      "sha256": "8879661ed91168c424cfeafbd99421d09655b573a179418514c4d930abd3fcbe",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://uygur.fc2web.com/"
+    },
+    {
+      "sha256": "89f198dcfe06d43fd5ea2b566c149bebbb8fcf9562396b38d67c66f24ac55853",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://martsangkagyuofficial.org"
+    },
+    {
+      "sha256": "89f96dc49caac976e72f592f10582d19a6649461073ddd78c0d974e301c76765",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hk-pub.com"
+    },
+    {
+      "sha256": "8c09afaa8db626dea396788b40f455a3a5adbd438fc06a4bfb3134da1286c6a3",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://twt.tl"
+    },
+    {
+      "sha256": "8d43f40faeba678308a949623c92a932fee682b2c28f04f374c9f4e5c34ff0f3",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://pemulihan.or.id"
+    },
+    {
+      "sha256": "8f31d449275f1c52e5b64caaec6482670e212716e193251d538afc44de36d6c9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vllcs.org"
+    },
+    {
+      "sha256": "909dfddbb52b447e4c3e184cb7b7acd7f2b1ae68ddc0a1ba33344018c53820cc",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vpn.sv.cmu.edu"
+    },
+    {
+      "sha256": "92a4a1819505b265322ee695c0f2fdcb8f576bd0898084b61f2102e0f6767ffc",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://duga.jp"
+    },
+    {
+      "sha256": "930ba33117efcee2e371abb0dc9f66dbe154f6cb2bf1ab0ca375baf64ef29cd8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://weisuo.ws"
+    },
+    {
+      "sha256": "93848b14ac1608e266a0564839d82b3f76d86e3abc052ef434fb4ba776b19614",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://emule-ed2k.com"
+    },
+    {
+      "sha256": "939b3e25ed9581a38ca50a7918def0e68f73cffe3c7cca2ac8307756bb7b301a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://lyfhk.net"
+    },
+    {
+      "sha256": "95bccb1b6da8cab56cecd04d5633780d78561bbc72c41813c3d1444fdf64cf77",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://guaguass.com"
+    },
+    {
+      "sha256": "960c69bd60ac44a7914decdc75742d4be7d178bded254c37d4c8b9dfacc3b3a4",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://blog.jp"
+    },
+    {
+      "sha256": "97bb830d28715ca20428c05411fb6431165ded3f54e6f14f73ab774258daac16",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://zhongguo.ca"
+    },
+    {
+      "sha256": "98c6684e154159303c81eed0fe5443ca086c3160bd94e520b36d9b5864874323",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://chinman.net"
+    },
+    {
+      "sha256": "98d8e8cbef032f5d8d6dd0141c59981e8b2e01e980c8cf6a9f5452f7df021490",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://suprememastertv.com"
+    },
+    {
+      "sha256": "9986aa2774f5cf306fcf02189b18c39bba59c466e7115f532294f0831c618091",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://looktoronto.com"
+    },
+    {
+      "sha256": "9a64f39cf638cd2413036d502b7057e1058b5002d479a78a2d0e1ceee1404eca",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://nradio.me"
+    },
+    {
+      "sha256": "9b24b5da414e5e78c2ae249874b03362b8b7d9fe9095b5e67a650ce492a619ea",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://twicountry.org"
+    },
+    {
+      "sha256": "9c3b5cfdbd7c8f78e5e39531be70911b680c7cdfd8584d4fe0456c64e5783c66",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://8-d.com"
+    },
+    {
+      "sha256": "9c6dcba90c965d1f2f4e4e3c844e0acafa11530909f4ac76f96c0ba21438ada2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://foxgay.com"
+    },
+    {
+      "sha256": "9c7f3752b0913ec3e962bc86fc848d23d84313ec57f6f400f8e3b7dbad59eecb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://theync.com"
+    },
+    {
+      "sha256": "9cca67b67f578d767232fda8c0db256b38918f5720c88ff1e424ce2c4dd763a0",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://toppornsites.com"
+    },
+    {
+      "sha256": "9d85ce35f9850fddc04d8c06564b19bfbad4fbcdbb9f96fd91edef2d2c3cdf15",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://iportal.me"
+    },
+    {
+      "sha256": "9da007b523c6a380f902795dc9d247c6518947ef676cc38eb0424165e808112a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tmpp.org"
+    },
+    {
+      "sha256": "9ef6d43ecc27253e89419c075eb6d41c5a6efe2849f475d71a357a7259ea0cb2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vpn.cmu.edu"
+    },
+    {
+      "sha256": "9fe9b3089b8887479dce50450ee8d6b83f04ea85bc818d3e1c8e705973df755c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dw-world.de"
+    },
+    {
+      "sha256": "a00610a83ddcacd11260310270292abff2df6e3a0b4d2885032682e780af3942",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://taoism.net"
+    },
+    {
+      "sha256": "a04ed42825473fca1a9ec92aa7c0a1d7d5c57f5c2f48bc50f178b2a50fef9735",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://twtkr.com"
+    },
+    {
+      "sha256": "a109ca83b9dde4ca8f784ac6aadc5904c21da70d1a8b70e5f09efa306f7be959",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://david-kilgour.com"
+    },
+    {
+      "sha256": "a3dd70b66909a3ff385d52d295ef8e9556512b13d4a27458c16194fb53fc825e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://pornhubdeutsch.net"
+    },
+    {
+      "sha256": "a91a6e5535c12d204b8b444766a142d607022bf8e69947dac3f3a30e65ec486e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gmp4.com"
+    },
+    {
+      "sha256": "a97fe3c9d1152176986f1d732cbecea980481ebb265f40a508cd4304d2fa938b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tw01.org"
+    },
+    {
+      "sha256": "ac77b2a8d8197b3f3e32504c7aebc9b98dd47de42822573054175a0e71d50011",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://g6hentai.com"
+    },
+    {
+      "sha256": "ac939dc0e321849207323e1fb0f9bd9bf84ad362c5d16e37fd4f28fcf5f33656",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://viu.tv/encore/"
+    },
+    {
+      "sha256": "ad2c8cc34b05425b98778e77626a4e74d4304b9c0c8339910faa6acc3aec18e9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vpnaccount.org"
+    },
+    {
+      "sha256": "ad41390db98488361b3dfc1c2c76af91ea06674f80d83e5abbe5b2249bd558fe",
+      "reason": "SUBSTRING_OR_OTHER",
+      "original_rule": "iipdigital.usembassy.gov"
+    },
+    {
+      "sha256": "adb274751e25410c3dd7f339a0b7ba74ceca93be510ae077ce82b3db0ba70bbf",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://bbs.hanminzu.org/"
+    },
+    {
+      "sha256": "aeb7cc828049e22f4b16028b23cc658c422571f2644d1f20a87b25a27132302b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mingpaosf.com"
+    },
+    {
+      "sha256": "afa42d975b775de8b8d0b3ff846bf727e8305ac29a67b7ff28925c24fd7da0df",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://fbcdn*.akamaihd.net/"
+    },
+    {
+      "sha256": "b0db3916cbec706e2d70c82ac1da65af7e4f18b1905d3a2094bc6a8f5b7ee9ce",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mingpaony.com"
+    },
+    {
+      "sha256": "b12112db7bc267d5bf85060cdaf96d22acca8f9aab4a4cdbe04183fa6d485545",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://antiwave.net"
+    },
+    {
+      "sha256": "b38044ae3558d46c9b7d0dd893d27f72a63752da425c4e3c93a2a3f2030bf984",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ff.im"
+    },
+    {
+      "sha256": "b4143aaaa44023c9133b7bef02af88ee14a23d8fc5a5b1073e63edd82490d1b3",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://redditlist.com"
+    },
+    {
+      "sha256": "b459115cb8fdcae7ed2b0d5b9ab75703dca16db098ead4e40ee6e7faa43cf33e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://tw-blog.com"
+    },
+    {
+      "sha256": "b64e93419117448fe6294a63bfa9731fdfc0c94fb8fb4d7d4e72f2892c75faac",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hustlercash.com"
+    },
+    {
+      "sha256": "b857aed514321c72f3f796b002525012bdb3eecba8dab73d1607f67aab9101ee",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.gmiddle.net"
+    },
+    {
+      "sha256": "b9b6c6a54200012786e52a3e13e3f8c17278b0959ac820eaf3210b4e72e6191b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://nvtongzhisheng.org"
+    },
+    {
+      "sha256": "ba06ab2072bf5a49f4def4ec437e58a34ff0be01b169a08721c062138ba9ca74",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mswe1.org"
+    },
+    {
+      "sha256": "baa832eec4a4e7e6bc481005f47ae984701465db0eb02b7b351e63543a9e2b89",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hitomi.la"
+    },
+    {
+      "sha256": "bb50df859b8b670bc20969e89bc385799bdd6c5d1ca9c6a70b950a096bfcec25",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://china-review.com.ua"
+    },
+    {
+      "sha256": "bbe05b8c4511c2bcfa89a4a3871e36032d1953bb7171206d15e03afc4ab51995",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cq99.us"
+    },
+    {
+      "sha256": "bc48e8ad60cdb57d0309827af7313f46107d079b8f8148832cd398b071d7ef42",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://itweet.net"
+    },
+    {
+      "sha256": "bcbbb5bc74f878d99befe9e807f984a686324e642a3b38f9e5dd1eaf8fea51ec",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://certificate.revocationcheck.com"
+    },
+    {
+      "sha256": "bd56c78aee5abaf2bbd6551a61d62056d2be976416bc7f0f07a7e97ab658fc2a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hegre-art.com"
+    },
+    {
+      "sha256": "be860d5aac5a257c77b413fd0d193185a3a64e30b9b2fe8e827d2aca0295ea9b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://forum.cyberctm.com"
+    },
+    {
+      "sha256": "bef83017fc4260189cac14256597e4d48bfc50076f669ab8dd2abdbb63083dde",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.kindleren.com"
+    },
+    {
+      "sha256": "c067368c8cdb1544f7340a2cbc402247a799aec81a706608870329138589d178",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://h-moe.com"
+    },
+    {
+      "sha256": "c105ae29049a87dc64f882cd4e7e8c4cb7fc269365056663a547d3f8eb4b2b02",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cgdepot.org"
+    },
+    {
+      "sha256": "c187887c3f1a2740e1500a81d9ad17a49802cbb99c10b2bd762dae61500c3068",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://twiends.com"
+    },
+    {
+      "sha256": "c27e8ce57b1d2d34fbda2460d88f8ea92b6dad37dae00cbe3c14357596e1ab20",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://*.tuzaijidi.com"
+    },
+    {
+      "sha256": "c3427b6829544e3e34d9c3ea0b6b0272e8d7ad5a3f10d3c67eaf4353c8297ecf",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://ss*.4sqi.net"
+    },
+    {
+      "sha256": "c41b68294b25f01364e243e37cfd5f6226ec016f10adcce06111ac4d7a403453",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://*2.bahamut.com.tw"
+    },
+    {
+      "sha256": "c5253f50b0f2571140f495ff02fc91c116631c486df6cf226f18caad777ca454",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://akademiye.org/ug"
+    },
+    {
+      "sha256": "c54c0b448a2bf8bcf5760e1f1cb1bf715530329dda46c6d28eb3f6c95f763727",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://online.recoveryversion.org"
+    },
+    {
+      "sha256": "c615c5f2d3ba7c7115b536761168187472b90e3b1dd8121a678053a66f4fdb40",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "@@||*.tokenplus.app"
+    },
+    {
+      "sha256": "c68153f949a113553b262c6367314b352997d1c67e96e039853295beba8fb781",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://ofile.org"
+    },
+    {
+      "sha256": "c7dd926fa200cb9d26724809576e17a203c577ef44755617a7170d4ee311d90c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tibetancommunityuk.net"
+    },
+    {
+      "sha256": "c80927c3737836e5c9946cc60fa438e1a686ad7a153561244348c3c515cad918",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://fleursdeslettres.com"
+    },
+    {
+      "sha256": "c823405c684e103dcd770b19adf0d9803ea530f555dee60ad88ccf53799bb48c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gaywatch.com"
+    },
+    {
+      "sha256": "c873fda17e86d578a0ec1d03ceb308f7156d6c2ebd83dd75f977e26dbe8aab8a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hornytrip.com"
+    },
+    {
+      "sha256": "c9e74aa4e21279c7bf47359a8c84aa474695282e5e04d982922700b491bed91f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tushycash.com"
+    },
+    {
+      "sha256": "ca336b9ffdcd36ce2abcc71490a2653796b78697875cf37db5133a9901b74cb2",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://blog.excite.co.jp"
+    },
+    {
+      "sha256": "cc95e48b28e32349b15b8e73ac8cc68a9053b266b6f0d92e0400834104baf806",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vovo2000.com"
+    },
+    {
+      "sha256": "cc9e313073dba6117b70fa3953f4fd8544ec3d63f8b63598b90818c51fa30767",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dscn.info"
+    },
+    {
+      "sha256": "ce20e4e6873feedacc6e2b7001def736d23636bab1924512aab0e372e5672a54",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gaopi.net"
+    },
+    {
+      "sha256": "ce73ec6df06029fcaf97d070bad3bf15108e459e772764416f0fc40d3749d163",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://taa-usa.org"
+    },
+    {
+      "sha256": "cf3c3b3f554519e4d7ac60cda0046aa78c7ab7d0ee9515b141d8963cc15e8360",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://china.ucanews.com/"
+    },
+    {
+      "sha256": "d0402fb9ecef9b12bc03fefcff7d53bbbb2c1d87f0586a7aac44777ead7ef243",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tibetanwomen.org"
+    },
+    {
+      "sha256": "d23fb5a4225eae49254d6f37f18e156acd2b393a6f1918398cdd2b215b22872c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dalailamacenter.org"
+    },
+    {
+      "sha256": "d2e4f4a1a2a815b30e4570b848506a41fe6245a2e09430b0bf3230b559557c05",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://owl.li"
+    },
+    {
+      "sha256": "d30b3603b76c27913d9bc624b1e57ac57033cbf6c4358cc5f1b8fb465b9eb012",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gcpnews.com"
+    },
+    {
+      "sha256": "d6a9e41ebb0b81d62100d813abbd66c5ea979309f9f9c04a3daf6e99b9d8fe89",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://secure.hustler.com"
+    },
+    {
+      "sha256": "d71e4f7a988674fe13b60479a8fa1679f32d3590fe17957cb492480a25bef9f8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tweetcs.com"
+    },
+    {
+      "sha256": "d9724e4c47ecd6b669dced63f2f818e406f81a505b123459fde0338a3c344994",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://webwarper.net"
+    },
+    {
+      "sha256": "d98429b28ec89ac9364e0d4f16da2578cdc720be7f4a3f163a6bb652452c46d7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://85cc.us"
+    },
+    {
+      "sha256": "da28a67d8dd3b7f317fb778c07d78ffc8525d02fe958b67efda17265921d1e96",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://giantessnight.com"
+    },
+    {
+      "sha256": "db43194840d6f54a5917d39fe732d39e699ecdd2734ef3bc0272d231a45e42a4",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "@@/^https?:\\/\\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\\.xn--ngstr-lra8j\\.com$"
+    },
+    {
+      "sha256": "dd1a6bd8e5ea578cb31f21b812145ff22b3e51dae1b87ade235f4efe99a5a88b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://deck.ly"
+    },
+    {
+      "sha256": "dde4dac3fdce6051d3f9f2e44ed554e9ba9b11b5d337b5a73b2a525030d7f90e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mo.nightlife141.com"
+    },
+    {
+      "sha256": "de27cacb82346fe3eccaf0a6eafb012f5c3bdd4e8128cd22e1466d56da5d733b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://blog.soylent.com"
+    },
+    {
+      "sha256": "dea0b58d8887be63681316f2157f7ecbcea6490df49b013d7d2f3a72088908b4",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://atchinese.com"
+    },
+    {
+      "sha256": "decacfecbeba86199f63f3da6308dc52662bdca835355b9b8287c61086ba7616",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://chrdnet.com"
+    },
+    {
+      "sha256": "dee10e1c6fe778547912145117cafb28e1fc8a236638ab0544950492d7d294ae",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://islam.org.hk"
+    },
+    {
+      "sha256": "df08dc1118db1ad108c724640884d221f936d2f00558593df7ebbc25c18d1f66",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cacnw.com"
+    },
+    {
+      "sha256": "e1c165a8528769386de900365479bd6ab8dafe25e1a35898a424bb29e718cc33",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://opus-gaming.com"
+    },
+    {
+      "sha256": "e1c9ab3bbbb8c6df58d1a9609e6c8de01d6bd321a69ebda688bb2ff1f27303bb",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://jkb.cc"
+    },
+    {
+      "sha256": "e51023f7ab9025b195140062ef5c33526eb55fe45079b29d113bc14172965a03",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://hdzog.com"
+    },
+    {
+      "sha256": "e543985993fec168f4b81c3e7d57f0fd1936e261a1f6cb96f320977849f438ea",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://freetibetanheroes.org"
+    },
+    {
+      "sha256": "e6b41c0c116147d316720d19ea6d93f661f54a5d50e7f16bd392f242a633aaff",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tarr.uspto.gov/"
+    },
+    {
+      "sha256": "e75b5ed02ad75dc78a17b9f36a2f5a0092c4a775d79a2844b468f1263ffcab2f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://fpmt.org"
+    },
+    {
+      "sha256": "e77732e6d36a6bf78eb85ab8a09cda75f617c637e95f502d1998093f9096247c",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://moby.to"
+    },
+    {
+      "sha256": "e8d77f2be7ed6a726f77d45917c97d3fe68023ab504259105dc05d72af179837",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tuzaijidi.com"
+    },
+    {
+      "sha256": "ea470b40810d5e9d288fd1b19a4fff74a210efb11157b8f132ff42d69ff6a0cb",
+      "reason": "NONSTANDARD_DOMAIN_ANCHOR",
+      "original_rule": "||google"
+    },
+    {
+      "sha256": "ead4ea243d6d7203c5ae41dcc3f0fefc52267589a0512f0a29961df7141c53e6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://soubory.com"
+    },
+    {
+      "sha256": "eb13774a5aba86403b324e2484fd2b8442ccdef4953f919baa10ba652c8a561a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://surfeasy.com.au"
+    },
+    {
+      "sha256": "eb77b585b94ec37058dd9289ac753824bad2ca3186ec509a06fc331a92193094",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.gmiddle.com"
+    },
+    {
+      "sha256": "ec93e13a7337fbbf996c70a632956ea50428937990d511f9f2967022f5438e48",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://tunein.com"
+    },
+    {
+      "sha256": "ec95321167220842e25f5a0f11b97938741d14620d28a2570723e1390be365ee",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://jmscult.com"
+    },
+    {
+      "sha256": "ecf5a1893886eabdc2ac7b92c5534eaf1def9f378236b30451eec6cbcb784ff9",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://vpncoupons.com"
+    },
+    {
+      "sha256": "ecf678ff048043a244fcb4ca44c896532e88e2d9ee3ea6d8bdec6ceb00aaa2ab",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://99cn.info"
+    },
+    {
+      "sha256": "ed53e34932bb333ab6dec5cdfaff775178e018970f870055d471b607ec7d82dc",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.oxid.it"
+    },
+    {
+      "sha256": "efb51272d5f41adaae77fe179c795851cd1fdee6961fcc967f499dcbc20ef93b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://kiwi.kz"
+    },
+    {
+      "sha256": "f01f45c8cf0d91c67915b1d26b22d0cf0d49b7d8447aefde2f5e320391a6e27f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://0rz.tw"
+    },
+    {
+      "sha256": "f116f7e6bab0ed0a478a888c7fc6118220ef8b722bdfe3ce763ef5a9480f36c6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://quran.com"
+    },
+    {
+      "sha256": "f124235a552d41263b2d1f9fbb84184807ce8eaca890cb02e4b2b180ca72ffca",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.antd.org"
+    },
+    {
+      "sha256": "f1b3643eda3dade76eba1dd54028380bea7bea7abc07c07e8230a27598ce95a5",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://fulione.com"
+    },
+    {
+      "sha256": "f2467a819064d74bf028a5f4d82fe269a91a804abc901bd503e6b6be0acf0f0f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://991.com"
+    },
+    {
+      "sha256": "f2653476cfc9deaf0613f1c0c4c45bea49d4fbd23401cb3f8b1ebbef99449653",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://cn.shafaqna.com"
+    },
+    {
+      "sha256": "f2a46c4bd64bdf2dcb5d410ea2bb222346a499de17752edd638fcffa22157ffd",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|https://raindrop.io/"
+    },
+    {
+      "sha256": "f2ef2ea44d1614dea3501a04cc41f3dd14f13ce2657f5e6830318b3c36f472c3",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://qmp4.com"
+    },
+    {
+      "sha256": "f32834a15c1360edec0e6026afdba1cde1d63c7b9d249ac9ab3411100d60fb52",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.m-sport.co.uk"
+    },
+    {
+      "sha256": "f38c81b4320ba1e563f9efc0a4384bf3477aeddb29af34573549f4340bc556ae",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://*.pimg.tw/"
+    },
+    {
+      "sha256": "f39ce9d3ddf07d3776ab2af2eb8c832cf9a86b899a099aeab1290fed91f86ee7",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://blogtd.org"
+    },
+    {
+      "sha256": "f3dbb68e0a83d98ee6f2fe3cd762399559c35940d21fd4740b8f4d888176f8df",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://raizoji.or.jp"
+    },
+    {
+      "sha256": "f43b238b951f9565deac94c2913bd0cabfa00545219992dd9f9469c814afa146",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://onlytweets.com"
+    },
+    {
+      "sha256": "f55334264d9a885c12d96a280552ce4c4888510953a6f0a7fe52da67ca9e8b89",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "||boxun*.azurewebsites.net"
+    },
+    {
+      "sha256": "f6c4ead24006318a867c1744e290ed32ac9ae7f15f75d3c9e8eb0be2655277a8",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mindrolling.org"
+    },
+    {
+      "sha256": "f8ce9f5d60e4307dffb0ac536888e05eb83fbd056f98bfa4c393fcd8c24329d6",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://eromon.net"
+    },
+    {
+      "sha256": "f91650e9d389dd22041a225297852585cb96762254c7b81b7bb13ec2953356cc",
+      "reason": "WILDCARD_OR_PATH",
+      "original_rule": "||img*.picturedip.com"
+    },
+    {
+      "sha256": "fa0daeefbc4ebd6151c76d50e06d867e1129a2dd31596d238a2fcdb2bf9ab56b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://xxxymovies.com"
+    },
+    {
+      "sha256": "faaef3965eabe3f2ae0b430fdc8e0489616549217bcd24f77043a1f051a93cda",
+      "reason": "NONSTANDARD_DOMAIN_ANCHOR",
+      "original_rule": "||goog"
+    },
+    {
+      "sha256": "fad75c36effc6da4a398212b375c64013edc2b8ef8cee46cdc56689b0645d295",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://socrec.org"
+    },
+    {
+      "sha256": "fb0d7d14ddb159d775399e59a4f73508075470d76431b1c9995d73772c1b614b",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.monlamit.org"
+    },
+    {
+      "sha256": "fb0f9adbbaecf91691888dd9199cd57b524128f279b1a446a32d30d3bcd33a56",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://mash.to"
+    },
+    {
+      "sha256": "fb5012c4eff00c761bedbbd5ac9a27a67d57059d1c60d132de44142f0b65c57a",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://insecam.org"
+    },
+    {
+      "sha256": "fba02c4324510ada19e7bee59e6e3223e278538a1bd216df341fd72a4060e036",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://xxx.xxx"
+    },
+    {
+      "sha256": "fc710d0348c566909ad1a51103d4e2685dd39ee7a3cd3243349921cd45183c54",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://imb.org"
+    },
+    {
+      "sha256": "fce68ed4e5ebc935d5dc71a7a011d0f108ea0a122ba4a8807f79cd5c52e3df18",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://daidostup.ru"
+    },
+    {
+      "sha256": "fd4f352f5810237b36ef4a1916718b0a9ddbe395b2c15b96ce050836022dea2e",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://gvlib.com"
+    },
+    {
+      "sha256": "fec67a4436868dff3e9fb2d678b7c78a6a35cecc72c6a2172d8af8a8b5feb4d1",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://www.websnapr.com"
+    },
+    {
+      "sha256": "fed9eb6be9bcbdd486f3034917c7a5affb210c5c5b7e677ae2233bebf2f55e6f",
+      "reason": "URL_SCHEME_OR_PATH",
+      "original_rule": "|http://dynupdate.no-ip.com/"
+    }
+  ],
+  "unsupported_reason_counts": {
+    "NONSTANDARD_DOMAIN_ANCHOR": 3,
+    "REGEX_URL_MATCH": 1,
+    "SUBSTRING_OR_OTHER": 2,
+    "URL_SCHEME_OR_PATH": 279,
+    "WILDCARD_OR_PATH": 7
+  },
+  "direct_proxy_collision_count": 0,
+  "direct_proxy_collisions": [],
+  "conversion_semantics": "domain-anchor to DOMAIN-SUFFIX projection; un-terminated ||host may differ at URL host boundary; URL/path/regex/substring excluded",
+  "unreviewed_sha256": [],
+  "unreviewed_count": 0,
+  "stale_approvals": [],
+  "unreviewed_collisions": []
+}
