@@ -2,8 +2,10 @@ import base64
 import json
 import tempfile
 import unittest
+from datetime import datetime, timezone
 from pathlib import Path
-from scripts.gfwlist_convert import build, convert, decode_source, sha256_text, main
+from unittest.mock import patch
+from scripts.gfwlist_convert import build, convert, decode_source, sha256_text, main, save_yaml
 
 
 class ConverterTests(unittest.TestCase):
@@ -60,6 +62,22 @@ class ConverterTests(unittest.TestCase):
     def test_safety_floor(self):
         with self.assertRaises(ValueError):
             build(self.b64(), set(), minimum_proxy=1000)
+
+    def test_generated_notice_and_unchanged_modification_date(self):
+        with tempfile.TemporaryDirectory() as td:
+            path = Path(td) / 'provider.yaml'
+            content = {'payload': ['DOMAIN-SUFFIX,example.com']}
+            with patch('scripts.gfwlist_convert.datetime') as clock:
+                clock.now.return_value = datetime(2026, 10, 22, tzinfo=timezone.utc)
+                save_yaml(path, content)
+                first = path.read_text('utf-8')
+                self.assertIn('# Modified by QZAM on 2026-10-22:', first)
+                self.assertIn('GNU LGPL 2.1', first)
+                clock.now.return_value = datetime(2026, 10, 23, tzinfo=timezone.utc)
+                save_yaml(path, content)
+                self.assertEqual(path.read_text('utf-8'), first)
+                save_yaml(path, {'payload': ['DOMAIN-SUFFIX,changed.example.com']})
+                self.assertIn('# Modified by QZAM on 2026-10-23:', path.read_text('utf-8'))
 
 
 if __name__ == '__main__':
