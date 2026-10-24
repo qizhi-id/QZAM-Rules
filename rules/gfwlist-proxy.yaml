@@ -1,5 +1,5 @@
 # Derived from GFWList: https://github.com/gfwlist/gfwlist
-# Modified by QZAM on 2026-10-22: domain-only normalization, reviewed exclusions and YAML formatting.
+# Modified by QZAM on 2026-10-24: domain-only normalization, reviewed exclusions and YAML formatting.
 # License: GNU LGPL 2.1; see COPYING.txt in this repository.
 payload:
 - DOMAIN-SUFFIX,000webhost.com
@@ -747,6 +747,7 @@ payload:
 - DOMAIN-SUFFIX,compileheart.com
 - DOMAIN-SUFFIX,connect.facebook.net
 - DOMAIN-SUFFIX,conoha.jp
+- DOMAIN-SUFFIX,console.typesafe.ai
 - DOMAIN-SUFFIX,contests.twilio.com
 - DOMAIN-SUFFIX,cool18.com
 - DOMAIN-SUFFIX,coolaler.com
@@ -1261,6 +1262,7 @@ payload:
 - DOMAIN-SUFFIX,g.ai
 - DOMAIN-SUFFIX,g.co
 - DOMAIN-SUFFIX,g0v.social
+- DOMAIN-SUFFIX,ga.jspm.io
 - DOMAIN-SUFFIX,gab.com
 - DOMAIN-SUFFIX,gabocorp.com
 - DOMAIN-SUFFIX,gagaoolala.com

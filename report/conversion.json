@@ -1,9 +1,9 @@
 {
   "source_kind": "gfwlist-autoproxy-base64",
-  "source_sha256_decoded": "2009e12bbf4f8a4ae67ff0438c7e00f99a6219ff19c7e3d7107a6f8da1d02362",
-  "effective_entries": 4413,
+  "source_sha256_decoded": "75911bb93be1537afe2ae98cf8a9e668792e2890fc607d80cbfaa8110839235a",
+  "effective_entries": 4415,
   "direct_domains": 31,
-  "proxy_domains": 4090,
+  "proxy_domains": 4092,
   "unsupported_count": 292,
   "unsupported_sha256": [
     "00615e4abdcea22bf62340e2d5e2f4849fc12adf63edf1e6d05a0a836175e765",
