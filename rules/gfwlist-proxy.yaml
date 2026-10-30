@@ -1,5 +1,5 @@
 # Derived from GFWList: https://github.com/gfwlist/gfwlist
-# Modified by QZAM on 2026-10-25: domain-only normalization, reviewed exclusions and YAML formatting.
+# Modified by QZAM on 2026-10-30: domain-only normalization, reviewed exclusions and YAML formatting.
 # License: GNU LGPL 2.1; see COPYING.txt in this repository.
 payload:
 - DOMAIN-SUFFIX,000webhost.com
@@ -191,6 +191,7 @@ payload:
 - DOMAIN-SUFFIX,anonfiles.com
 - DOMAIN-SUFFIX,anonymouse.org
 - DOMAIN-SUFFIX,anthonycalzadilla.com
+- DOMAIN-SUFFIX,anthropic.auth0.com
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,antpool.com
 - DOMAIN-SUFFIX,anuneko.com
@@ -478,6 +479,7 @@ payload:
 - DOMAIN-SUFFIX,brookings.edu
 - DOMAIN-SUFFIX,brutaltgp.com
 - DOMAIN-SUFFIX,bsky.app
+- DOMAIN-SUFFIX,bsky.chat
 - DOMAIN-SUFFIX,bsky.network
 - DOMAIN-SUFFIX,bsky.social
 - DOMAIN-SUFFIX,bt4g.org
@@ -689,7 +691,10 @@ payload:
 - DOMAIN-SUFFIX,clashyun.com
 - DOMAIN-SUFFIX,classicalguitarblog.net
 - DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,claude.app
 - DOMAIN-SUFFIX,claude.com
+- DOMAIN-SUFFIX,claudemcpcontent.com
+- DOMAIN-SUFFIX,claudeusercontent.com
 - DOMAIN-SUFFIX,cldr.unicode.org
 - DOMAIN-SUFFIX,clearsurance.com
 - DOMAIN-SUFFIX,clementine-player.org
