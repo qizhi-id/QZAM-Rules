@@ -1,5 +1,5 @@
 # Derived from GFWList: https://github.com/gfwlist/gfwlist
-# Modified by QZAM on 2026-11-04: domain-only normalization, reviewed exclusions and YAML formatting.
+# Modified by QZAM on 2026-11-05: domain-only normalization, reviewed exclusions and YAML formatting.
 # License: GNU LGPL 2.1; see COPYING.txt in this repository.
 payload:
 - DOMAIN-SUFFIX,000webhost.com
@@ -2235,7 +2235,6 @@ payload:
 - DOMAIN-SUFFIX,matters.town
 - DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 - DOMAIN-SUFFIX,mattwilcox.net
-- DOMAIN-SUFFIX,maven.neoforged.net
 - DOMAIN-SUFFIX,mcadforums.com
 - DOMAIN-SUFFIX,mceindex.com
 - DOMAIN-SUFFIX,mcusercontent.com
@@ -2434,6 +2433,7 @@ payload:
 - DOMAIN-SUFFIX,nekoslovakia.net
 - DOMAIN-SUFFIX,neo-miracle.com
 - DOMAIN-SUFFIX,neodb.social
+- DOMAIN-SUFFIX,neoforged.net
 - DOMAIN-SUFFIX,neowin.net
 - DOMAIN-SUFFIX,nephobox.com
 - DOMAIN-SUFFIX,netalert.me
